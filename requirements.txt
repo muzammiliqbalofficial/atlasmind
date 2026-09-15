@@ -1,0 +1,11 @@
+# AtlasMind - Internal AI Knowledge Assistant Dependencies
+# Completely Free Stack
+
+streamlit>=1.35.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+reportlab>=4.1.0
+requests>=2.31.0
+
+# Optional Online LLM Extensions (if using Google Gemini, Groq, or Ollama)
+google-genai>=2.0.0

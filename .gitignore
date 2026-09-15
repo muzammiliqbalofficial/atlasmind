@@ -1,0 +1,21 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Screen recordings (large media files)
+recordings/
+
+# Exported PDFs
+exports/*.pdf
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS Specific
+.DS_Store
+Thumbs.db
